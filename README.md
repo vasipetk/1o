@@ -1,1 +1,1 @@
-# petko's example
+#Example of README.md
